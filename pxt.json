@@ -1,0 +1,14 @@
+{
+    "name": "IR",
+    "version": "1.0",
+    "description": "Extension for micro:bit IR V1.0",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true
+}
